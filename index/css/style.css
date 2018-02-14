@@ -1,0 +1,309 @@
+body {
+    overflow-x: hidden;
+  }.jap {
+  width: 1440px;
+  font-size: 600px;
+  opacity: 10%;
+  margin-top: 130px;
+  margin-left: 619px;
+  color: lightgrey;
+  margin-right: -600px;
+  position: absolute;
+}
+
+.parasecondpart {
+  font-size: 14px;
+  font-family: furuta;
+  position: absolute;
+  margin-left: 205px;
+  margin-top: 820px;
+  margin-bottom: 200px;
+}
+
+.knife {
+  position: absolute;
+  margin-left: 205px;
+  margin-top: 486px;
+  z-index: 1;
+}
+
+.yokubo {
+  position: absolute;
+  transform: rotate(-90deg);
+  color: black;
+  font-size: 24px;
+  margin-top: 686px;
+  border-left: 3px darkred solid;
+  padding-left: 16px;
+  padding-top: 75px;
+  padding-bottom: 50px;
+}
+
+.zeroun {
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  margin-top: 825px;
+  margin-left: 52px;
+}
+
+.secondpart {
+  margin-top: -200px;
+}
+
+.menu {
+  position: absolute;
+  transform: rotate(-90deg);
+  color: black;
+  font-size: 24px;
+  border-left: 3px darkred solid;
+  padding-left: 16px;
+  padding-top: 75px;
+  padding-bottom: 50px;
+  margin-top: 1650px;
+}
+
+.zerodeux {
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  margin-left: 42px;
+  margin-top: 1780px;
+}
+
+.imgthirdpart {
+  margin-top: 1350px;
+  margin-left: -20px;
+  width: 105%;
+  height: 833px;
+}
+
+.parathirdpart {
+  margin-top: -720px;
+  font-size: 30px;
+  color: white;
+  margin-left: 300px;
+}
+
+.decouvrir {
+  border: 2px black solid;
+  font-size: 25px;
+  text-align: center;
+  background: white;
+  margin-left: 300px;
+  padding: 20px 20px;
+  margin-top: 200px;
+}
+
+.reserver {
+  position: absolute;
+  transform: rotate(-90deg);
+  color: black;
+  font-size: 24px;
+  border-left: 3px darkred solid;
+  padding-left: 16px;
+  padding-top: 75px;
+  padding-bottom: 50px;
+  margin-top: 500px;
+}
+
+.zerotrois {
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  margin-left: 56px;
+  margin-top: 646px;
+}
+
+.table {
+  border: 2px black solid;
+  font-size: 25px;
+  text-align: center;
+  background: white;
+  padding: 20px 20px;
+  color: black;
+  margin-left: 566px;
+  margin-top: 280px;
+  }
+
+.bitmap {
+  margin-left: 509px;
+  margin-top: 70px;
+  margin-bottom: 173px;
+}
+
+.egal {
+  position: absolute;
+  margin-top: 580px;
+  margin-left: 1350px;
+  border-bottom: 3px darkred solid;
+  font-size: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.firsttrait {
+  position: absolute;
+  font-size: 40px;
+  border-bottom: 3px darkred solid;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 1715px;
+  margin-left: 1360px;
+}
+
+.secondtrait {
+  position: absolute;
+  font-size: 40px;
+  margin-left: 1390px;
+  margin-top: 1755px;
+}
+
+.reserverdeux {
+  position: absolute;
+  transform: rotate(-90deg);
+  color: black;
+  font-size: 24px;
+  border-left: 3px darkred solid;
+  padding-left: 16px;
+  padding-top: 75px;
+  padding-bottom: 50px;
+  margin-top: 130px;
+}
+
+.zerotroisdeux {
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  margin-left: 56px;
+  margin-top: 272px;
+}
+
+.fourthpart {
+  border-bottom: 2px lightgrey solid;
+}
+
+.combien {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.un {
+  border-top: 2px lightgrey solid;
+  border-left: 2px lightgrey solid;
+  border-right: 2px lightgrey solid;
+  text-align: center;
+  padding: 5px 20px 5px 24px;
+  margin-left: 570px;
+  font-size: 40px;
+  margin-top: 127px;
+}
+.deux {
+  border-top: 2px lightgrey solid;
+  border-left: 2px lightgrey solid;
+  border-right: 2px lightgrey solid;
+  text-align: center;
+  padding: 5px 20px;
+  font-size: 40px;
+  margin-left: -6px;
+}
+.trois {
+  border-top: 2px lightgrey solid;
+  border-left: 2px lightgrey solid;
+  border-right: 2px lightgrey solid;
+  text-align: center;
+  padding: 5px 20px;
+  font-size: 40px;
+  margin-left: -6px;
+}
+.quatre {
+  border-top: 2px lightgrey solid;
+  border-left: 2px lightgrey solid;
+  border-right: 2px lightgrey solid;
+  text-align: center;
+  padding: 5px 20px;
+  font-size: 40px;
+  margin-left: -6px;
+}
+.cinq {
+  border: 2px lightgrey solid;
+  text-align: center;
+  padding: 5px 20px 5px 18px;
+  margin-left: 570px;
+  font-size: 40px;
+
+}
+.six {
+  border: 2px lightgrey solid;
+  text-align: center;
+  padding: 5px 20px 5px 19px;
+  font-size: 40px;
+  margin-left: -6px;
+}
+.sept {
+  border: 2px lightgrey solid;
+  text-align: center;
+  padding: 5px 20px 5px 22px;
+  font-size: 40px;
+  margin-left: -6px;
+}
+.huit {
+  border: 2px lightgrey solid;
+  text-align: center;
+  padding: 5px 20px 5px 20px;
+  font-size: 40px;
+  margin-left: -6px;
+}
+.phrase {
+  margin-top: 40px;
+  text-align: center;
+  border-bottom: 2px lightgrey solid;
+  padding-bottom: 248px;
+}
+.egaldeux {
+  position: absolute;
+  margin-top: -428px;
+  margin-left: 1350px;
+  border-bottom: 3px darkred solid;
+  font-size: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.reservertrois {
+  position: absolute;
+  transform: rotate(-90deg);
+  color: black;
+  font-size: 24px;
+  border-left: 3px darkred solid;
+  padding-left: 16px;
+  padding-top: 75px;
+  padding-bottom: 50px;
+  margin-top: 250px;
+}
+
+.zerotroistrois {
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  margin-left: 56px;
+  margin-top: 392px;
+}
+.choisir {
+  text-align: center;
+  font-size: 30px;
+}
+.egaltrois {
+  position: absolute;
+  margin-top: 264px;
+  margin-left: 1350px;
+  border-bottom: 3px darkred solid;
+  font-size: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.horaire {
+  font-size: 20px;
+  margin-left: 521px;
+  margin-top: 200px;
+}
